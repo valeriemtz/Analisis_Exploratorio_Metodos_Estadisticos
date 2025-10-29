@@ -1,0 +1,12 @@
+introducción
+introduction
+análisis-exploratorio-de-datos
+resumen-estadístico
+análisis-inferencial
+prueba-de-kruskal-wallis
+tablas-de-contingencia-y-chi-cuadrado
+análisis-de-varianza-anova
+pruebas-t-para-muestras-independientes
+prueba-de-correlacion
+conclusiones
+resumen-de-hallazgos-principales
